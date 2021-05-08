@@ -164,6 +164,7 @@ sudo service ssh restart
 we have to make all configuration on all nodes so follw the below steps
 
 
+
 ----------****** Create a snapshot IMAGE at this point ******-----------------
 Create 4 nodes from this image
 
